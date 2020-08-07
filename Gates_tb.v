@@ -13,6 +13,8 @@ module Gates_tb();
     initial begin
         $monitor("A = %h, B = %h: AND = %h, OR = %h", 
                 inA, inB, outAnd, outOr);
+        $dumpfile("Gates.vcd");
+        $dumpvars(0, Gates_tb);
         inA <= 32'h0000_0000;
         inB <= 32'h0000_0000;
         #1;
