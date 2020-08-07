@@ -3,4 +3,4 @@
 This is a personal project containing a 
 32-bit, 5-stage piplelined MIPS processor.
 
-![alt text](https://github.com/https://github.com/DevidLis/32-Bit-MIPS-Processor/master/Images//Images/500px-MIPS_Architecture_(Pipelined)_svg.png?raw=true)
+![alt text](https://github.com/https://github.com/DevidLis/32-Bit-MIPS-Processor/blob/master/Images/500px-MIPS_Architecture_(Pipelined)_svg.png?raw=true)
