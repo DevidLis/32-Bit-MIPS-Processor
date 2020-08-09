@@ -1,3 +1,5 @@
+/* Test bench for DFF */
+
 `timescale 1us/1ns
 `include "DFF.v"
 

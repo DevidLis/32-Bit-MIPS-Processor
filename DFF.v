@@ -1,3 +1,5 @@
+/*D-flipflop module*/
+
 module dff(Q, D, clk, resetb);
     input D, resetb, clk;
     output reg Q;
