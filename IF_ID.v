@@ -11,4 +11,4 @@ module IF_ID(out, instruction, progCounter, clk, en);
         else
             out <= 64'b0; 
     end
-endmodule // IF_IF
+endmodule // IF_ID
